@@ -1,5 +1,5 @@
 # CS-320
-###CS-320 Software Test Automation &amp; QA
+### CS-320 Software Test Automation &amp; QA
 
 The following files and description showcase my work in software testing, automation, and quality assurance leveraging unit tests in Java, analyzing the performance of the codebase and meeting user requirements during development.
  
